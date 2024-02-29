@@ -1,9 +1,9 @@
 $ npm init
-  ...
+  
   package name: @ILK17/zov
-  ...
+  
   test command: exit 0
-  ...
+  
 "publishConfig": {
   "@ILK17:registry": "https://npm.pkg.github.com"
 }
