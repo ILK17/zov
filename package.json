@@ -5,5 +5,5 @@ $ npm init
   test command: exit 0
   ...
 "publishConfig": {
-  "@ILK17:registry": "https://npm.pkg.github.com"
+  "@ILK17:registry": "https://github.com/ILK17/zov.git"
 }
